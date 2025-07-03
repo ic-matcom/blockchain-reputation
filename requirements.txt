@@ -1,6 +1,0 @@
-streamlit
-web3
-python-dotenv
-streamlit-local-storage
-fastapi
-uvicorn
